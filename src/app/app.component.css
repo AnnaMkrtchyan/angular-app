@@ -1,0 +1,17 @@
+.form {
+  padding: 25px 30px;
+  display: flex;
+}
+.input-block {
+  width: 300px;
+}
+.btn-search {
+  padding: 8px 40px;
+}
+
+.table-block {
+  padding: 0 25px 25px;
+}
+.table-block table {
+  width: 100%;
+}
